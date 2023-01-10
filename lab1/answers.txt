@@ -24,5 +24,5 @@ Question 7: What changed in the output of https://webdocs.cs.ualberta.ca/~hindle
 Answer: This line is seen in the response after passing payload "X=Y". POST request is useful when the user has to send some payload or update some data.
 
 Question 8: What is the raw URL to your Python script on GitHub?
-
+Answer: https://raw.githubusercontent.com/nevilkandathil/CMPUT-401-labs/main/lab1/lab1.py
 
